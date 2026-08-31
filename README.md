@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=A374FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abie+%F0%9F%91%8B;AI%2FML+Engineer;Building+Multi-Agent+%26+RL+Systems;Turning+Research+into+Deployed+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=A374FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abie+%F0%9F%91%8B;AI%2FML+Developer;Building+Multi-Agent+%26+RL+Systems;Turning+Research+into+Deployed+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ### About
 
-AI/ML Engineer specializing in **multi-agent orchestration**, **reinforcement learning**, and **production-grade agentic systems**. I build things that ship, get evaluated against real benchmarks, and hold up under judging pressure — not just prototypes.
+AI/ML Deevloper specializing in **multi-agent orchestration**, **reinforcement learning**, and **production-grade agentic systems**. I build things that ship, get evaluated against real benchmarks, and hold up under judging pressure — not just prototypes.
 
 - 🎓 B.E. Computer Science, Sri Shakthi Institute of Engineering and Technology — **CGPA 8.68**
 - 🏅 Grand Finalist, **Meta × Scaler OpenEnv Hackathon** — top team out of 800 competing across ~31,000 developers
@@ -66,16 +66,6 @@ Multi-agent script continuity and legal clearance system for production teams �
 Built for The Great Agent Hackathon (Freshworks / The Great Product Festival, Bangalore).
 
 `LangGraph` `Groq` `MongoDB Atlas` `FastAPI` `React` `ElevenLabs`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 [SkillScan AI](https://github.com/Abirami-2743/SkillScan-AI)
-HR resume scoring platform built for real recruiting workflows — automated job description generation, a reusable resume database, and tag-based skill extraction, developed against direct stakeholder feedback from a project guide.
-
-`FastAPI` `Groq` `MongoDB` `React` `TypeScript`
 
 </td>
 </tr>
