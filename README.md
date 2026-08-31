@@ -2,7 +2,7 @@
 
 <!-- Typing intro -->
 <a href="https://github.com/Abirami-2743">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A374FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abie+%F0%9F%91%8B;AI%2FML+Engineer+in+the+making;Building+multi-agent+%26+RL+systems;Aiming+for+Anthropic+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A374FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abie+%F0%9F%91%8B;AI%2FML+Developer+in+the+making;Building+multi-agent+%26+RL+systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,9 +17,7 @@
 
 - 🎓 3rd-year **B.E. Computer Science** student at Sri Shakthi Institute of Engineering and Technology, Coimbatore — CGPA **8.68**
 - 🤖 Building AI systems that reason, monitor, and act — agents, not just chatbots
-- 🎯 Long-term goal: **AI Engineer @ Anthropic**
 - 🌱 Currently deepening RL fine-tuning, multi-agent orchestration, and AI safety monitoring
-- 🗣️ Speak Tamil, Telugu, English
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/abiraminayagi-s-)
 
 ---
