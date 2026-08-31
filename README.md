@@ -15,7 +15,7 @@
 
 ### About
 
-AI/ML Deevloper specializing in **multi-agent orchestration**, **reinforcement learning**, and **production-grade agentic systems**. I build things that ship, get evaluated against real benchmarks, and hold up under judging pressure — not just prototypes.
+AI/ML Developer specializing in **multi-agent orchestration**, **reinforcement learning**, and **production-grade agentic systems**. I build things that ship, get evaluated against real benchmarks, and hold up under judging pressure — not just prototypes.
 
 - 🏅 Grand Finalist, **Meta × Scaler OpenEnv Hackathon** — top team out of 800 competing across ~31,000 developers
 - 📄 Published, Scopus-indexed research author (AI-based demand forecasting)
@@ -39,7 +39,7 @@ Reinforcement learning environment (OpenEnv/Gymnasium) where an LLM agent learns
 </td>
 <td width="50%" valign="top">
 
-#### 👁️ ARGUS
+#### 👁️ [ARGUS](https://github.com/Abirami-2743/ARGUS)
 15-agent AI safety monitoring system spanning 5 industries, featuring a genuine self-improvement loop — root-cause analysis, patch generation, and replay validation — backed by live observability, not mocked telemetry.
 
 Built for Google Cloud's Rapid Agent Hackathon (Arize track); redeployed post-submission with production-grade tracing.
@@ -51,7 +51,7 @@ Built for Google Cloud's Rapid Agent Hackathon (Arize track); redeployed post-su
 <tr>
 <td width="50%" valign="top">
 
-#### 📈 MarketPulse
+#### 📈 [MarketPulse](https://github.com/Abirami-2743/MarketPulse)
 Deployed LangGraph ReAct agent delivering grounded, real-time crypto and stock market intelligence, with a companion Flutter mobile app. Live in production on Render + Vercel.
 
 `LangGraph` `Groq / Llama 3.3-70B` `FastAPI` `MongoDB` `React`
