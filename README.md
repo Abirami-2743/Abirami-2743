@@ -17,7 +17,6 @@
 
 AI/ML Deevloper specializing in **multi-agent orchestration**, **reinforcement learning**, and **production-grade agentic systems**. I build things that ship, get evaluated against real benchmarks, and hold up under judging pressure — not just prototypes.
 
-- 🎓 B.E. Computer Science, Sri Shakthi Institute of Engineering and Technology — **CGPA 8.68**
 - 🏅 Grand Finalist, **Meta × Scaler OpenEnv Hackathon** — top team out of 800 competing across ~31,000 developers
 - 📄 Published, Scopus-indexed research author (AI-based demand forecasting)
 - 🔬 Focus areas: LLM agent orchestration, RL fine-tuning (GRPO), AI safety & observability, full-stack agentic products
