@@ -59,12 +59,12 @@ Deployed LangGraph ReAct agent delivering grounded, real-time crypto and stock m
 </td>
 <td width="50%" valign="top">
 
-#### 🎬 [Continuity](https://github.com/Abirami-2743/continuity) `(in progress)`
-Multi-agent script continuity and legal clearance system for production teams — a 4-agent LangGraph pipeline (Extractor → Comparator → Legal Clearance → Supervisor) with O(N) entity-grouped comparison and voice-narrated reports.
+#### 🎬 [Continuity](https://github.com/Abirami-2743/continuity)
+Multi-agent script continuity and legal clearance system for production teams — a 4-agent LangGraph pipeline (Extractor → Comparator → Legal Clearance → Supervisor) with O(N) entity-grouped comparison, a dedicated landing page, and voice-narrated reports.
 
-Built for The Great Agent Hackathon (Freshworks / The Great Product Festival, Bangalore).
+Built for The Great Agent Hackathon (Freshworks / The Great Product Festival, Bangalore); continued past submission with a full debugging pass — deduplication logic, extraction/legal-clearance precision fixes — verified across multiple independent test scripts with zero hardcoded outputs.
 
-`LangGraph` `Groq` `MongoDB Atlas` `FastAPI` `React` `ElevenLabs`
+`LangGraph` `Groq` `MongoDB Atlas` `FastAPI` `React` `gTTS`
 
 </td>
 </tr>
