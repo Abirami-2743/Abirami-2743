@@ -40,9 +40,9 @@ Reinforcement learning environment (OpenEnv/Gymnasium) where an LLM agent learns
 <td width="50%" valign="top">
 
 #### 👁️ [ARGUS](https://github.com/Abirami-2743/ARGUS)
-15-agent AI safety monitoring system spanning 5 industries, featuring a genuine self-improvement loop — root-cause analysis, patch generation, and replay validation — backed by live observability, not mocked telemetry.
+15-agent AI safety monitoring system spanning 5 industries, with a root-cause analysis, patch generation, and replay validation loop, and Arize Phoenix observability integration.
 
-Built for Google Cloud's Rapid Agent Hackathon (Arize track); redeployed post-submission with production-grade tracing.
+Built for Google Cloud's Rapid Agent Hackathon (Arize track). Currently re-auditing the self-improvement loop end-to-end before making stronger claims about it — a promising post-submission fix turned out not to fully hold up on closer inspection.
 
 `Google ADK` `Gemini` `Arize Phoenix` `FastAPI` `Next.js`
 
